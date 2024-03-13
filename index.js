@@ -1,4 +1,3 @@
-
 class Crud {
     constructor(){
         this.url = 'https://65e15639d3db23f7624ace30.mockapi.io/users'
@@ -20,7 +19,7 @@ class Crud {
             name: 'Tiana Anderson',
             email: 'talove19@gmail.com',
             phone: '7988005695',
-            id: '29'
+            
         
         }
         console.log("newUserAdded:", newChange);
