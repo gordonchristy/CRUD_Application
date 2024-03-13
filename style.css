@@ -1,0 +1,26 @@
+#contactList {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px
+}
+
+h4 {
+    margin-left: 80px;
+}
+
+/* #user-2{
+    color: red;
+} */
+
+.users{
+    color: blue;
+    margin-left: 80px;
+  
+}
+button {
+    background-color: black;
+    color:white
+}
